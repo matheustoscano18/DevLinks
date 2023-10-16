@@ -50,6 +50,7 @@ body * {
     display: inline-block;
     width: 112px;
     margin: auto;
+    border-radius: 100%;
 }
 
 #profile p {
